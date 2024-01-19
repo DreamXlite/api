@@ -17,9 +17,9 @@
 		},
 		"duration": 600000,
 		"redeemRule": [{
-			"coins": 8,
-			"origCoins": 8,
-			"days": 1
+			"coins": 1,
+			"origCoins": 1,
+			"days": 10
 		}, {
 			"coins": 15,
 			"origCoins": 15,
